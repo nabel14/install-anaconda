@@ -10,4 +10,4 @@ Dibuat untuk memenuhi tugas Machine Learning.
 5. Membuka Anaconda Navigator untuk memastikan instalasi berhasil.
 
 ## Video Instalasi
-https://youtu.be/GFa9iC0eoCw?si=qB0ledYqJmcVK8YT
+https://youtu.be/gFa9icOeOCw?si=0Ruz3A1mdzNTf2xe
